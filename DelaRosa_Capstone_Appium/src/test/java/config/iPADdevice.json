@@ -1,0 +1,9 @@
+{
+  "platformName": "ios",
+  "platformVersion": "16.4",
+  "deviceName": "iPad mini (6th generation)",
+  "appLink": "src/test/resources/resource/UIKitCatalog.app",
+  "udid": "8D9FF380-E187-4C9F-8AB3-0F2F922FFE85",
+  "automationName": "XCUITest"
+}
+

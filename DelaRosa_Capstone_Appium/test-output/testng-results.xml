@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T21:37:02 PST" name="Default suite" finished-at="2023-05-24T21:39:14 PST" duration-ms="131740">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T21:37:02 PST" name="Default test" finished-at="2023-05-24T21:39:14 PST" duration-ms="131740">
+      <class name="iOS.tests.Test.AppiumIpadMain">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:02 PST" name="setUp" finished-at="2023-05-24T21:37:02 PST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="setup()[pri:1, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:03 PST" name="setup" finished-at="2023-05-24T21:37:23 PST" duration-ms="20962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scrollGes()[pri:2, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:23 PST" name="scrollGes" finished-at="2023-05-24T21:37:27 PST" duration-ms="3807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollGes -->
+        <test-method signature="actIndicator()[pri:3, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:27 PST" name="actIndicator" finished-at="2023-05-24T21:37:32 PST" duration-ms="5050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actIndicator -->
+        <test-method signature="datePicker()[pri:4, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:32 PST" name="datePicker" finished-at="2023-05-24T21:37:37 PST" duration-ms="4909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePicker -->
+        <test-method signature="timePicker()[pri:5, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:37 PST" name="timePicker" finished-at="2023-05-24T21:37:49 PST" duration-ms="11800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timePicker -->
+        <test-method signature="ImageView()[pri:6, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:49 PST" name="ImageView" finished-at="2023-05-24T21:37:58 PST" duration-ms="8912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImageView -->
+        <test-method signature="pageControl()[pri:7, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:37:58 PST" name="pageControl" finished-at="2023-05-24T21:38:00 PST" duration-ms="1885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageControl -->
+        <test-method signature="pickView()[pri:8, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:00 PST" name="pickView" finished-at="2023-05-24T21:38:02 PST" duration-ms="2153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pickView -->
+        <test-method signature="progView()[pri:9, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:02 PST" name="progView" finished-at="2023-05-24T21:38:13 PST" duration-ms="10846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- progView -->
+        <test-method signature="searchView()[pri:10, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:13 PST" name="searchView" finished-at="2023-05-24T21:38:20 PST" duration-ms="7024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchView -->
+        <test-method signature="segmentedControls()[pri:11, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:20 PST" name="segmentedControls" finished-at="2023-05-24T21:38:27 PST" duration-ms="6861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- segmentedControls -->
+        <test-method signature="sliderControl()[pri:12, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:27 PST" name="sliderControl" finished-at="2023-05-24T21:38:31 PST" duration-ms="4542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderControl -->
+        <test-method signature="stackViews()[pri:13, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:31 PST" name="stackViews" finished-at="2023-05-24T21:38:39 PST" duration-ms="7762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stackViews -->
+        <test-method signature="switches()[pri:14, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:39 PST" name="switches" finished-at="2023-05-24T21:38:43 PST" duration-ms="4022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switches -->
+        <test-method signature="textField()[pri:15, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:38:43 PST" name="textField" finished-at="2023-05-24T21:39:00 PST" duration-ms="17151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textField -->
+        <test-method signature="toolBars()[pri:16, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:39:00 PST" name="toolBars" finished-at="2023-05-24T21:39:04 PST" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolBars -->
+        <test-method signature="webViews()[pri:17, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:39:04 PST" name="webViews" finished-at="2023-05-24T21:39:08 PST" duration-ms="4295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webViews -->
+        <test-method signature="alert()[pri:18, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:39:08 PST" name="alert" finished-at="2023-05-24T21:39:13 PST" duration-ms="5202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:iOS.tests.Test.AppiumIpadMain@6fd83fc1]" started-at="2023-05-24T21:39:13 PST" name="tearDown" finished-at="2023-05-24T21:39:14 PST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- iOS.tests.Test.AppiumIpadMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

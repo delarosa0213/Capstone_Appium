@@ -1,0 +1,8 @@
+{
+  "platformName": "ios",
+  "platformVersion": "16.4",
+  "deviceName": "iPhone 14 Pro Max",
+  "appLink": "src/test/resources/resource/UIKitCatalog.app",
+  "udid": "14714F30-2473-4253-80F2-1CCB4A0AB899",
+  "automationName": "XCUITest"
+}

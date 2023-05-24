@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Android.tests.Test.AppiumAndroidTabletMain">
+        <methods>
+          <include name="transactHistory2"/>
+          <include name="Register"/>
+          <include name="Login"/>
+          <include name="quit"/>
+          <include name="setup"/>
+          <include name="delAccount"/>
+          <include name="transactHistory"/>
+          <include name="testLogin"/>
+          <include name="trans"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Android.tests.Test.AppiumAndroidTabletMain -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,10 @@
+{
+  "deviceName": "RedTab1",
+  "appLink": "src/test/resources/resource/",
+  "apk": "PocketBit.apk",
+  "platformVersion": "10",
+  "automationName": "UiAutomator2",
+  "platformName": "android",
+  "url": "http://127.0.0.1:4723/wd/hub"
+}
+
